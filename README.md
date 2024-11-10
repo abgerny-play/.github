@@ -6,3 +6,9 @@
 
 ## What is Abgerny?
 Abgerny is the latest game designed to spark creativity with vibrant sounds, stunning graphics, and dynamic play. Abgerny combines unique Sprunki Incredibox integration with customizable challenges and engaging gameplay—perfect for rhythm fans, creativity seekers, and anyone looking for a fresh, fun experience.
+
+## What makes Abgerny popular?
+Abgerny Incredibox blends rhythm gameplay with creative freedom, letting players easily craft their own music. You drag and drop animated characters, each with a unique musical role like bass, melody, or harmony, to create custom tracks. The characters are chosen from genres like hip-hop, pop, electronic, and funk, each with distinct sounds and characters. Colorful graphics and lively animations make the experience visually engaging and fun.
+
+## Abgerny wiki
+
